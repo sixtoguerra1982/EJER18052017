@@ -1,0 +1,35 @@
+*{margin: 0px;}
+	
+body{
+		margin: 0px;
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-left: 0px;
+		padding-right:  0px;
+}
+
+header.encabezado{
+	background-image: url('images/bg.jpeg');
+}
+
+	ul.navbar{
+		list-style-type: none;
+	}	
+	ul.navbar li {
+		float: left;
+		padding: 50px;
+		color:white;
+		text-align: left;
+	}
+	div.boton{
+		text-align: center;
+	}
+	h6.subtitulo{
+		text-align: center;
+		color:white;
+	}
+
+	h1.titulo{
+	color: white;
+	text-align: center;
+}
